@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Kolorowanki - blog dla dzieci
 published: true
 ---
 ## Blog o kolorowankach dla dzieci
