@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Hej Hawww! Wieśniak! Zawroty głowy! Który dzieciak nie wyobrażał sobie siebie jako króla (lub królowej) rodeo? Nie możesz sobie tego wyobrazić? Zachodni krajobraz… gorący i zakurzony… słoneczny i zadymiony. A kto powstaje z tej sceny? Nikt inny jak najszybciej strzelający rewolwerowiec na całym zachodzie! Ten dzieciak jest uosobieniem tego, kim powinien być kowboj. Ubrana jak kowboje kowbojów w: kamizelkę i krawat, kowbojskie buty, dżinsy rodeo pokryte czapsami, pistolet i kaburę, z najfajniejszym kowbojskim kapeluszem, który dopełnia stylizację. To jest kowboj! I to właśnie wyobrażają sobie twoje dzieci… że są PRAWDZIWYMI kowbojami i kowbojkami!
 
